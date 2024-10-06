@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
-\\to check the student has cleared the exam or not
+//to check the student has cleared the exam or not
  int t,e,m,s,ss,tot;
  scanf("%d %d %d %d %d",&t,&e,&m,&s,&ss);
  tot=t+e+m+s+ss;
