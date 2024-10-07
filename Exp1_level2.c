@@ -10,6 +10,6 @@ int main() {
     scanf("%f",&t);
     a=p*pow((1+r/n),n*t);
     ci=a-p;
-    printf("\ncompound interest is : %.2f",ci);
+    printf("compound interest is : %.2f",ci);
     return 0;
 } 
